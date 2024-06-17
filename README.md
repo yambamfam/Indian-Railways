@@ -1,5 +1,5 @@
 # Indian-Railways
-**Station Popularity Analysis **
+**Station Popularity Analysis**
 
 **Introduction:**
 This analysis delves into the popularity of stations within the Indian Railways network. By examining the number of trains stopping at each station, we gain insights into the distribution of railway traffic across the network.
@@ -13,7 +13,7 @@ https://data.gov.in/catalog/indian-railways-train-time-table
 
 **Most Popular Station:** Station **CSMT** emerges as the most popular station, with the highest number of trains stopping.
 
-**Distribution of Trains: **The distribution of trains across all stations reveals variations in popularity, with some stations catering to a larger volume of train traffic compared to others.
+**Distribution of Trains:** The distribution of trains across all stations reveals variations in popularity, with some stations catering to a larger volume of train traffic compared to others.
 Visualizations:
 
 Bar Plot: A bar plot illustrating the top 10 busiest stations by the number of trains.
